@@ -302,7 +302,7 @@ BoxCollider2D:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
     oldSize: {x: 2.56, y: 2.56}
-    newSize: {x: 3.1820116, y: 2.402399}
+    newSize: {x: 2.9768224, y: 2.402399}
     adaptiveTilingThreshold: 0.5
     drawMode: 2
     adaptiveTiling: 1
@@ -537,7 +537,7 @@ TilemapRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 04570cfd851df7c499fc16e3a5c51e02, type: 2}
+  - {fileID: 2100000, guid: 406b32763d8dfcf4eb3be8ce48493e73, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -19824,6 +19824,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Ruby
       objectReference: {fileID: 0}
+    - target: {fileID: 500414584683472369, guid: 7fc87af0f85cc2a4eb5fa39cd0dbd933, type: 3}
+      propertyPath: m_Layer
+      value: 8
+      objectReference: {fileID: 0}
     - target: {fileID: 1515373224784765455, guid: 7fc87af0f85cc2a4eb5fa39cd0dbd933, type: 3}
       propertyPath: m_SleepingMode
       value: 0
@@ -19834,11 +19838,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4334106601686614984, guid: 7fc87af0f85cc2a4eb5fa39cd0dbd933, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -0.03
+      value: -0.13
       objectReference: {fileID: 0}
     - target: {fileID: 4334106601686614984, guid: 7fc87af0f85cc2a4eb5fa39cd0dbd933, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 6.68
+      value: 6.89
       objectReference: {fileID: 0}
     - target: {fileID: 4334106601686614984, guid: 7fc87af0f85cc2a4eb5fa39cd0dbd933, type: 3}
       propertyPath: m_LocalPosition.z
@@ -20804,7 +20808,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 6131232486294815377, guid: 186e0fddaf98f1949aef0994431768d9, type: 3}
       propertyPath: m_Size.x
-      value: 3.1820116
+      value: 2.9768224
       objectReference: {fileID: 0}
     - target: {fileID: 6131232486294815377, guid: 186e0fddaf98f1949aef0994431768d9, type: 3}
       propertyPath: m_Size.y
@@ -20828,7 +20832,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8588886072458418681, guid: 186e0fddaf98f1949aef0994431768d9, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -0.1
+      value: 0.0026
       objectReference: {fileID: 0}
     - target: {fileID: 8588886072458418681, guid: 186e0fddaf98f1949aef0994431768d9, type: 3}
       propertyPath: m_LocalPosition.y
@@ -21169,11 +21173,11 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 3589569374845190804, guid: 0c8b2d8c5af675e4eaf859ec7f583360, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 4.72
+      value: 5.8
       objectReference: {fileID: 0}
     - target: {fileID: 3589569374845190804, guid: 0c8b2d8c5af675e4eaf859ec7f583360, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -1.56
+      value: 5.85
       objectReference: {fileID: 0}
     - target: {fileID: 3589569374845190804, guid: 0c8b2d8c5af675e4eaf859ec7f583360, type: 3}
       propertyPath: m_LocalPosition.z
